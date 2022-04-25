@@ -9448,7 +9448,6 @@ keyboard.inline_keyboard = {
 {text = ' 〆 Source Channel', url = "https://t.me/Tepthoneteam"},{text =   '〆 Tws 𝙩𝙚𝙥𝙩𝙝𝙤𝙣𝙚  〠 ', url = "https://t.me/Tepthoneteam"}
 },
 }
-}
 local msgg = msg_id/2097152/0.5
 https.request("https://api.telegram.org/bot"..Token.."/sendphoto?chat_id=" .. msg_chat_id .. "&photo="..photo.."&caption=".. URL.escape(T).."&reply_to_message_id="..msgg.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard))
 
