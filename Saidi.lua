@@ -10454,7 +10454,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = 'ᗪᗴᐯ Տᗴᘔᖇ', url = 't.me/ttccss'},{text = 'ᗪᗴᐯ ᖇᗴՏᕼᗩ', url = 't.me/P17_12'}, 
+{text = 'ᗪᗴᐯ Տᗴᘔᖇ', url = 't.me/ttccss'},{text = 'ᗪᗴᐯ ᗰOᕼᗩᗰᗴᗪ', url = 't.me/P17_12'}, 
 },
 {
 {text = '◈ السورس .', url = 't.me/Tepthoneteam'},{text = '◈ لتنصيب بوت .', url = 't.me/Reshaa99_bot'}, 
@@ -10470,7 +10470,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = 'ᗪᗴᐯ Տᗴᘔᖇ', url = 't.me/ttccss'},{text = 'ᗪᗴᐯ ᖇᗴՏᕼᗩ', url = 't.me/P17_12'}, 
+{text = 'ᗪᗴᐯ Տᗴᘔᖇ', url = 't.me/ttccss'},{text = 'ᗪᗴᐯ ᗰOᕼᗩᗰᗴᗪ', url = 't.me/P17_12'}, 
 },
 {
 {text = '◈ السورس .', url = 't.me/Tepthoneteam'},{text = '◈ لتنصيب بوت .', url = 't.me/Reshaa99_bot'}, 
